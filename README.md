@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dương</h1>
-<h3 align="center">A passionate software developer</h3>
 
-- 🔭 I’m currently a 2nd year university student
-
-- 📄 Know about my experiences: Intern/Fresh
 
 
 <h3 align="left">Languages and Tools:</h3>
