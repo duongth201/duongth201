@@ -10,6 +10,7 @@
 - [4. Trích dẫn, bo chữ](#trichdanbochu)
 - [5. Gạch đầu dòng](#gachdaudong)
 - [6. Tạo bảng](#taobang)
+- [7. Kẻ ngang](#kengang)
 - [Mẹo](#meo)
 	
 
@@ -189,6 +190,14 @@ Kết quả:
 | Hàng 2 | 2 x 1 | 2 x 2 | 2 x 3 | 2 x 4 |
 | Hàng 3 | 3 x 1 | 3 x 2 | 3 x 3 | 3 x 4 |
 | Hàng 4 | 4 x 1 | 4 x 2 | 4 x 3 | 4 x 4 |
+
+<a name="kengang"></a>
+### 7. Kẻ ngang
+
+Cú pháp:
+***
+---
+- - -
 
 <a name="meo"></a>
 ###*Mẹo:*
