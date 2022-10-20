@@ -1,0 +1,100 @@
+
+php bin/magento setup:upgrade
+php bin/magento s:upg
+php bin/magento setup:upgrade -vvv
+php bin/magento setup:di:compile
+php bin/magento c:f
+php bin/magento setup:static-content:deploy -f
+ rm -rf var/cache/ var/page_cache/
+ docker-compose exec cli 
+ docker exec -it tdtw_cli_1 bash
+ php bin/magento indexer:reindex      php bin/magento in:rein
+ php bin/magento de:mo:se developer
+ 
+ rm -rf var/cache/ var/page_cache/ var/view_preprocessed/ pub/static/frontend/ && php bin/magento s:up && php bin/magento s:d:c && php bin/magento s:s:d -f && php bin/magento c:f
+ 
+ rm -rf var/view_processed var/page_cache var/cache
+ 
+ rm -rf generated/*
+ 
+rm -rf generated/* var/cache/ var/page_cache/ var/view_preprocessed/ pub/static/frontend/ && php bin/magento s:up && php bin/magento s:d:c && php bin/magento s:s:d -f && php bin/magento c:f
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>
+ <container>
+ <block></block>
+ </container>
+ 
+ </block>
+ <move></move> # lệnh move element đến vị trí mong m
+ 
+ 
+ ///////////////////////////
+ xóa commit trên repo
+ git branch -D <tên nhánh>
+ git push -f
+ git push -d origin v528-14
+ git checkout -b v528-14
+ //////////////
+ 
+ 
+ SwngAJmQE9jMqq8vYHrF
+ git push -f origin <branch> 
+>>>>>>>>>>>>
+import DB
+>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+composer install --ignore-platform-reqs
+
+
+bss-cli m2:validate:fix -n php_cs_fixer &&
+bss-cli m2:validate:fix -n magento_coding_standard &&
+bss-cli m2:validate:fix -n bss_coding_standard
+
+
+tìm 1 file php bất kì trong 1 file
+find app/design -name '*.phtml' >abc.txt
+
+Chạy tool : bss-cli m2:validate:list abc.txt
+
+app/code/QeeWeb/Monetaweb/Model/Payment.php
+
+
+var_dump($block->getNameInLayout());
+
+
+để chữ thường thôi sao style lên chữ hoa để sau này dễ sửa 
+
+$e = new \Exception();
+var_dump($e->getTraceAsString());die; => trace ra các class để đc 1 file 
+
+
+
+kowwil : sudo ecomage khi chạy vào 
+
+find  /usr/bin/ -name 'php*' : dùng để tìm phpver
+
+composer self-update --1
+
+Use composer self-update --rollback to return to version 1.10.26
+
+composer config -g repo.packagist composer https://packagist.org <cái -g là global để ý sẽ config cho toàn máy> package có thể bị sai
+
+grunt clean:$1; grunt exec:$1; grunt less:$1;
+
+Các màn hình đã được định sẵn layout ko cần phải có kích thước màn hình khác
+
+php bin/magento weltpixel:less:generate ( chạy để genfile import css theo ngôn ngữ)
+
+check disk : 
+sudo du -msh * check xem trong folder dung luong ntn
+df -h check dung luong con lai cua o cung
+
+
+ Bss1234@@$ mk bn
+ Mf : Bssdev Bss123@#$
+
+
+https://pms.bssgroup.vn/default/viewtaskdetail/v516SB-555 có merge vào nhánh v516SB-543 
+https://pms.bssgroup.vn/default/viewtaskdetail/v516SB-556 có merge vào nhánh v516SB-542
+v516SB-559 có merge vào nhánh v516SB-544
+
+/home/aa290c0e/8a81a83a22.nxcli.net/ftpdownload.themagnetgroup/Product/
